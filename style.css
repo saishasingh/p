@@ -1,0 +1,37 @@
+.heading {
+    width: 100%;
+  text-align: left; 
+  position: sticky;
+   margin:0px;
+   top: 0px;
+   z-index: 1px;
+   line-height: 2;
+   width: 100%; 
+ 
+}
+.heading h3{
+    display: inline;
+    
+}
+.heading button{
+   float: right;
+
+}
+
+#hr1{
+   background-color:  black;
+}
+.footer{
+   width: 100%;
+   background-color: aquamarine;
+   position: sticky;
+   margin:0px;
+   bottom: 0px;
+   z-index: 1px;
+   line-height: 2;
+}
+.modal-dialog{
+   width: 90%;
+   font-size: 30px;
+   height: 50%;
+}
